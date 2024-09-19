@@ -1,1 +1,1 @@
-# mdia3126-digital-ass-integration
+# mdia3126-thurs
