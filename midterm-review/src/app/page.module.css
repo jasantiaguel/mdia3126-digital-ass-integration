@@ -15,3 +15,47 @@
   background-color: red;
   cursor: pointer;
 }
+
+/* mobile */
+.page {
+  
+}
+
+.button {
+  
+}
+
+.image {
+  width: 100%;
+}
+
+
+/* tablet */
+@media (min-width: 600px) {
+  .page {
+    
+  }
+
+  .button {
+    
+  }
+
+  .image {
+    
+  }
+}
+
+/* desktop */
+@media (min-width: 1024px) {
+  .page {
+    
+  }
+
+  .button {
+    
+  }
+
+  .image {
+    
+  }
+}
